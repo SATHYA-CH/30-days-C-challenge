@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 int expenses,totalcount=0;
-float totalamount=0,smalltotal=0.0,largetotal=0.0,mediumtotal=0.0;
+float totalamount=0.0,smalltotal=0.0,largetotal=0.0,mediumtotal=0.0;
 int  smallcount=0,mediumcount=0,largecount=0;
 while(1)
 {
